@@ -10,9 +10,9 @@ This repository contains a Jupyter Notebook for performing exploratory data anal
 
 ```
 .
-├── Stock_price_time_series.ipynb  # Main notebook with analysis and forecasting
-├── README.md                      # Project documentation
-└── data/                          # (Optional) Folder to store your datasets
+├── Stock_price_time_series.ipynb  
+├── README.md                      
+└── data/                          
 ```
 
 ## 🚀 Features
