@@ -38,5 +38,25 @@ This repository contains a Jupyter Notebook for performing exploratory data anal
 * Trend and seasonality decomposition
 * Forecasted vs actual values
 
+## 🧪 How to Run
 
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/stock-price-time-series.git
+   cd stock-price-time-series
+   ```
+
+2. (Optional) Set up a virtual environment:
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
