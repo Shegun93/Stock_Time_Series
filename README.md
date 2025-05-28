@@ -1,4 +1,3 @@
-Here's a GitHub README for your notebook titled **"Stock Price Time Series Analysis"** based on the uploaded file:
 
 ---
 
