@@ -59,4 +59,23 @@ This repository contains a Jupyter Notebook for performing exploratory data anal
    ```bash
    pip install -r requirements.txt
    ```
+4. Launch the Jupyter Notebook:
+
+   ```bash
+   jupyter notebook Stock_price_time_series.ipynb
+   ```
+
+## 📦 Datasets
+
+You can use any publicly available historical stock price dataset (e.g., Yahoo Finance, Alpha Vantage). Be sure to update the notebook with the path or API credentials as needed.
+
+## 📈 Forecasting Models
+
+The notebook explores classical and/or deep learning models for time series forecasting. These may include:
+* LSTM
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 
