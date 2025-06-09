@@ -47,13 +47,6 @@ This repository contains a Jupyter Notebook for performing exploratory data anal
    cd stock-price-time-series
    ```
 
-2. (Optional) Set up a virtual environment:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
 3. Install dependencies:
 
    ```bash
