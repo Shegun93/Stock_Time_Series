@@ -71,8 +71,7 @@ You can use any publicly available historical stock price dataset (e.g., Yahoo F
 
 ## 📈 Forecasting Models
 
-The notebook explores classical and/or deep learning models for time series forecasting. These may include:
-* LSTM
+The notebook explores LSTM's Recurrent Neural Networks for  this time series forecasting project. 
 
 ## 📄 License
 
